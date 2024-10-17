@@ -113,7 +113,8 @@ const RegisterPage = ({ event }) => {
 							target='_blank'
 							className='text-gray-100'
 						>
-							Built by David Asaolu
+							Built by Chinmay Rathod
+								
 						</a>
 					</div>
 				</div>
